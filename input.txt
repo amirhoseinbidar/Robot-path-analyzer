@@ -1,0 +1,29 @@
+
+
+N: 3
+-2
+2
+-2
+4
+1
+9
+3
+3
+3
+
+Lx: -3
+Ux: +2
+Ly: 1
+Uy: 4 // ok this is shift
+Lz: -15
+Uz: 23
+
+Ox: 0
+Oy: 2 
+Oz: 3
+beGIn west WEST  north  // comment 1 \n
+north north  west  East east south 
+{
+    comment2 
+}
+soth east up  east  enD
